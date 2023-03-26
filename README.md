@@ -11,6 +11,6 @@ bifurcation_diagram.py to calculate the bifurcation diagrams
 
 phase_diagram.py to calculate phase diagrams
 
-trajectory.py to calculate trajectory of (N,D,J,I) for the full N*N lattice
+trajectory.py to calculate trajectory of (N,D,J,I) for the full L*L lattice
 
-plot_trajectory.py to plot trajectory of (N,D,J,I) for the full N*N lattice
+plot_trajectory.py to plot trajectory of (N,D,J,I) for the full L*L lattice
